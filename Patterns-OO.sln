@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2005
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{22ADCF14-79D1-4DD3-ADE8-01D4ED79FBDE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{124D10A8-7E2B-449E-989E-3FD511D5A0C7}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Patterns-OO", "src\Patterns-OO\Patterns-OO.csproj", "{E6844A24-5E7A-4837-AFBF-44ED9D503F33}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E6844A24-5E7A-4837-AFBF-44ED9D503F33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6844A24-5E7A-4837-AFBF-44ED9D503F33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6844A24-5E7A-4837-AFBF-44ED9D503F33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6844A24-5E7A-4837-AFBF-44ED9D503F33}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{E6844A24-5E7A-4837-AFBF-44ED9D503F33} = {22ADCF14-79D1-4DD3-ADE8-01D4ED79FBDE}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {29EF55C8-7507-4197-AE29-85954149F66E}
+	EndGlobalSection
+EndGlobal
